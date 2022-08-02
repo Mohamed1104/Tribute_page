@@ -1,40 +1,42 @@
 /* Copy and paste your CSS from CodePen into here */
 #main {
-    background-color: lightblue;
-      text-align: center;
-      color: white;
+  background-color: lightblue;
+    text-align: center;
+    color: white;
+  }
+  #title {
+    color: white;
+    font-size: 80px;
+  text-decoration-line: underline;
+  text-shadow: 5px 5px 10px black;
+    
+  }
+  #sub-heading {
+    color: black;
+   font-size: 30px;
     }
-    #title {
-      color: white;
-      font-size: 80px;
-    text-decoration-line: underline;
-    text-shadow: 5px 5px 10px black;
-      
-    }
-    #sub-heading {
-      color: black;
-     font-size: 30px;
-      }
-    #image {
-      max-width: 100%;
-      display: block;
-      height: auto;
-     }
-    #img-caption{
-      font-size: 20px;
-    }
-    #sub-heading2{
-      font-size: 30px;
-    text-decoration-line: underline;
-    }
-    #tribute-info{
-      color: black;
-    text-align: left;
-    max-width: 550px;
-    margin: 0 auto 50px auto
-      
-    }
-    #subheading3{
-      font-size: 30px;
-    text-decoration-line: underline;
-    }
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+   }
+  #img-caption{
+    font-size: 20px;
+  }
+  #sub-heading2{
+    font-size: 30px;
+  text-decoration-line: underline;
+  }
+  #tribute-info{
+    color: black;
+  text-align: left;
+  max-width: 550px;
+  margin: 0 auto 50px auto
+    
+  }
+  #subheading3{
+    font-size: 30px;
+  text-decoration-line: underline;
+  }
